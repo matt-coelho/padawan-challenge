@@ -11,10 +11,6 @@ Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 
 **3.** Depois de concluir, faça um Pull Request contendo tudo que você desenvolveu, informando seu e-mail na descrição do Pull Request.
 
-A Vulpi deseja criar um sistema para calcular a folha de pagamento mensal dos nossos funcionários.
-
-Para isso, precisamos de um sistema que cumpra os RFs abaixo.
-
 ==============
 
 ###Introdução
@@ -32,6 +28,10 @@ Seu código será avaliado principalmente nos seguintes aspectos:
 Levamos muito a sério a qualidade do que está sendo construído. Mesmo que alguma coisa não funcione corretamente, você ganhará pontos por ter seu código escrito com carinho :)
 
 ==============
+
+A Vulpi deseja criar um sistema para calcular a folha de pagamento mensal dos nossos funcionários.
+
+Para isso, precisamos de um sistema que cumpra os RFs abaixo.
 
 ###Requisitos Funcionais:
 
