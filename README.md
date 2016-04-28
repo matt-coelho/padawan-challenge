@@ -1,11 +1,14 @@
 ###Descrição da vaga
 Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 
-###Introdução
+==============
 
+###Introdução
 Uma empresa deseja criar um sistema para calcular a folha de pagamento mensal.
 
-####Requisitos Funcionais:
+==============
+
+###Requisitos Funcionais:
 
 **RF1.** Armazenar os dados dos funcionários (matricula, nome, cargo, cpf, endereço e e-mail de contato), o seu salário bruto, o valor mensal do vale alimentação e transporte.
 
@@ -28,6 +31,8 @@ Uma empresa deseja criar um sistema para calcular a folha de pagamento mensal.
 > *salario liquido = salario bruto + gratificação mensal*
 
 **RF9.** O sistema precisa calcular a folha de pagamento completa de todos os funcionários cadastrados no sistema.
+
+==============
 
 ###Regras de Negócio:
 
