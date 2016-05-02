@@ -3,10 +3,6 @@ Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 
 ==============
 
-**Desenvolva na linguagem que você se sentir mais a vontade (PHP, Ruby, Python e etc).**
-
-==============
-
 ###Instruções
 
 **1.** Crie um **FORK** deste projeto.
@@ -14,6 +10,8 @@ Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 **2.** Desenvolva os requesitos descritos abaixo.
 
 **3.** Depois de concluir, faça um Pull Request contendo tudo que você desenvolveu, informando seu e-mail na descrição do Pull Request.
+
+**Desenvolva na linguagem que você se sentir mais a vontade (PHP, Ruby, Python e etc).**
 
 ==============
 
