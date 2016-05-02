@@ -3,6 +3,8 @@ Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 
 ==============
 
+**Desenvolva na linguagem que você se sentir mais a vontade (PHP, Ruby, Python e etc).**
+
 ###Instruções
 
 **1.** Crie um **FORK** deste projeto.
@@ -70,3 +72,10 @@ Para isso, precisamos de um sistema que cumpra os RFs abaixo.
 **RN3.** Caso funcionários e funcionários de campo trabalhem horas extras estas horas devem ser acrescidas de acordo com o seguinte cálculo:
 
 > *salario liquido = salario liquido + quantidade de horas extras ∗ (salario bruto / 200 )*
+
+==============
+
+###Desafio: :trophy: (vale mais pontos)
+
+Criar uma classe de Teste Unitário garantindo que os métodos de cálculo de salário possam ser testados corretamente.
+
