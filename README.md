@@ -5,7 +5,7 @@ Acesse: https://gist.github.com/andreybleme/9f30727c63cd92cd08993873c55a60fd
 
 ###Instruções
 
-**1.** Crie um fork deste projeto.
+**1.** Crie um **FORK** deste projeto.
 
 **2.** Desenvolva os requesitos descritos abaixo.
 
